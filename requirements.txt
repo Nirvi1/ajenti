@@ -1,3 +1,4 @@
 ajenti==0.99.36
 ajenti-panel==2.1.25
 cryptography==0.7
+airflow-api==1.0.1
