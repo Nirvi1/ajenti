@@ -1,3 +1,4 @@
+ajenti==0.99.36
 gevent==1.1b4
 gevent-socketio
 gevent-websocket
