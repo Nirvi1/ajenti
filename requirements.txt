@@ -1,2 +1,3 @@
 ajenti==0.99.36
 ajenti-panel==2.0.37
+cryptography==-0.7
